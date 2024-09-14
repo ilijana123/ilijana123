@@ -8,7 +8,7 @@
 - Angular
 - .NET
 - PHP etc.
-- 💞️ I’m looking to collaborate on exciting web development projects. I'm open to opportunities where I can contribute my skills and learn from others.
+-  I’m looking to collaborate on exciting web development projects. I'm open to opportunities where I can contribute my skills and learn from others.
 - 📫  You can reach me via:
 - Email: simonovskailijana1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilijana-simonovska-a21102116/
