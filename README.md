@@ -9,7 +9,8 @@
 - .NET
 - PHP
 - Android and iOS mobile apps development
- simonovskailijana1@gmail.com
+  
+- simonovskailijana1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilijana-simonovska-a21102116/
 
 <!---
