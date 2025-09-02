@@ -9,7 +9,7 @@
 - .NET
 - PHP
 - Android and iOS mobile apps development
-  
+- Spring Boot(Java and Kotlin)
 - simonovskailijana1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilijana-simonovska-a21102116/
 
