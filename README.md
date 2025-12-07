@@ -1,16 +1,15 @@
 👋 Hi, I’m @ilijana123
 About Me
 
-I’m a software developer passionate about creating clean, efficient, and user-friendly applications.
-My main focus areas include:
+I’m a software developer passionate about creating clean, efficient, and user-friendly applications. My main focus areas include:
 
-Backend: Spring Boot (Java/Kotlin), .NET(C#)
+Backend: Spring Boot (Java/Kotlin), .NET (C#)
 
-Frontend: React, NextJS
+Frontend: React, Next.js
 
 Mobile: Android (Kotlin/Java) & iOS (SwiftUI/UIKit)
 
-I also have experience with Python, PHP, Angular, C/C++ as well as tools like AWS, Docker, Git/GitHub, and SQL/NoSQL databases.
+I also have experience with Python, PHP, Angular, C/C++, and tools like AWS, Docker, Git/GitHub, and SQL/NoSQL databases.
 Always learning, always improving.
 
 📧 Email: simonovskailijana1@gmail.com
