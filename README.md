@@ -1,113 +1,153 @@
-👋 Hi, I’m @ilijana123
-About Me
+👋 Hi, I’m Ilijana Simonovska (@ilijana123)
 
-I am a passionate software developer with experience in building mobile, web, and backend applications. I enjoy creating efficient, scalable, and user-friendly solutions, and I’m constantly expanding my knowledge across different technologies.
+🎯 Software Developer passionate about building mobile apps, backend systems, and full-stack applications.
+💡 I love creating clean, scalable, user-friendly software using modern technologies.
+📚 Always learning — always improving.
 
-My main interests include:
-
-Android development (Kotlin, Jetpack Compose, MVVM, Clean Architecture)
-
-Backend development using Spring Boot (Java/Kotlin)
-
-Frontend development using React and Next.js
-
-I also have experience developing iOS apps (SwiftUI & UIKit), .NET applications, embedded Qt apps, and full-stack projects across several technologies.
-
-🛠 Skills
-Programming Languages
+🚀 Tech Stack
+🔧 Programming Languages
 
 Java, Kotlin, C#, Swift, JavaScript, TypeScript, Python, C, C++
 
-Frameworks & Technologies
+🧩 Frameworks & Technologies
 
-Spring Boot, .NET / ASP.NET MVC, Android Development, iOS (SwiftUI, UIKit)
+Spring Boot, .NET / ASP.NET MVC, Android (Compose & XML)
 
-React, Next.js, Angular, Qt (C++/QML)
+iOS (SwiftUI, UIKit)
 
-Mobile Development
+React, Next.js, Angular
 
-Android (Kotlin, Jetpack Compose, Retrofit, Hilt, FCM)
+Qt (C++/QML)
 
-iOS (SwiftUI, UIKit, Apple Maps, notifications)
+🗄️ Databases
 
-Databases
+MySQL • PostgreSQL • Microsoft SQL Server • SQLite • Firebase
 
-MySQL, PostgreSQL, Microsoft SQL Server, SQLite, Firebase
+🛠 DevOps & Tools
 
-DevOps / Tools
-
-AWS, Docker, Git, GitHub, Linux, Kafka, Redis
+AWS • Docker • Git • GitHub • Linux • Kafka • Redis
 
 💼 Professional Experience
-Software Engineer Intern – G+D Netcetera
+Software Engineer Intern — G+D Netcetera
 
-April 2025 – July 2025
+📍 Skopje | Apr 2025 – Jul 2025
 
-Built a complete food-ordering iOS app using SwiftUI, REST APIs, maps, and notifications
+Built a fully functional SwiftUI food-ordering iOS app
 
-Implemented authentication, order management, reminders, and unit tests
+Integrated REST APIs, Apple Maps, notifications, authentication
 
-Followed SOLID and Clean Code practices
+Applied SOLID + Clean Architecture
 
-Software Engineer Intern – Pabau Clinic Software
+Wrote XCTest unit tests
 
-September 2024 – November 2024
+Software Engineer Intern — Pabau Clinic Software
 
-Worked with Next.js & TypeScript using GraphQL
+📍 Skopje | Sep 2024 – Nov 2024
 
-Built and customized React components
+Developed features using Next.js + TypeScript + GraphQL
 
-Contributed to real CRM software via Jira tickets
+Customized Ant Design components
 
-Embedded Software Engineer Intern – QTwinsSoft
+Worked on real CRM software using Jira & Git workflows
 
-August 2022 – September 2022
+Embedded Software Engineer Intern — QTwinsSoft
 
-Developed cross-platform Qt applications (C++/QML)
+📍 Skopje | Aug 2022 – Sep 2022
 
-Built GUI components and functional prototypes
+Built Qt applications (C++/QML)
 
-📱 Highlight Projects
-Nutritive Android App & Spring Boot REST API
+Designed GUI components
 
-Kotlin Android App with Jetpack Compose, Retrofit, Hilt
+Implemented Dial Pad & Tadalist apps
 
-AWS-hosted Kotlin Spring Boot API (EC2, RDS, S3)
+📦 Projects
 
-Real-time allergen alerts with Firebase Cloud Messaging
+(All links available in the repositories section)
 
-JWT authentication, CRUD endpoints, MapStruct
+📱 Nutritive Android App + Spring Boot REST API
 
-Patient Management System (Microservices)
+Android in Kotlin + Jetpack Compose + Hilt + Retrofit
 
-Spring Boot microservices with Kafka, Docker, Redis
+Real-time allergen alerts using Firebase Cloud Messaging (FCM)
 
-REST + gRPC, API Gateway, AWS ECS deployment
+Full backend in Spring Boot (Kotlin) with JWT Auth
 
-Other notable projects include:
+Hosted on AWS EC2 + RDS + S3
 
-Workshop Management System (Spring Boot, MySQL)
+Uses MapStruct, layered Clean Architecture
 
-Skopje Marathon Platform (Spring Boot, PostgreSQL)
+🏥 Patient Management System (Microservices)
 
-Blog Page (.NET MVC, SQL Server)
+Spring Boot microservices
 
-Book Store (.NET MVC + PHP versions)
+Kafka event-driven architecture
 
-Apartment Listing App (Swift, Firebase)
+gRPC + REST APIs
 
-Carpooling Android App (Java, SQLite, Google Maps)
+Redis caching
 
-Pathfinding Algorithm Challenge (TypeScript)
+Dockerized & deployed on AWS ECS
 
-🌐 Contact
+🛠 Workshop Management Service
+
+Spring Boot + MySQL
+
+JWT authentication
+
+REST + SOAP service support
+
+🏃 Skopje Marathon Web Platform
+
+Spring Boot (Java) + PostgreSQL
+
+Participant registration, payments simulation, admin panel
+
+📝 Blog Page (.NET MVC)
+
+C#, ASP.NET MVC, SQL Server
+
+Posts, comments, replies, likes, tags, image uploads
+
+📚 Book Store App (.NET MVC & PHP Versions)
+
+Authentication, CRUD, cart system
+
+Two versions: C# ASP.NET MVC and PHP + MySQL
+
+🏢 Apartment Listing System (iOS)
+
+Swift + UIKit + Firebase
+
+Advertiser & buyer roles
+
+Notifications, filtering, scheduling visits
+
+🚗 Carpooling Android App (Java)
+
+Google Maps + Places API
+
+SQLite, RecyclerView, fragments
+
+Rating, ride management
+
+🔤 Pathfinding Algorithm Challenge (TypeScript)
+
+Grid traversal, letter collection, turn handling
+
+Fully tested logic for defined routes
+
+🌍 Languages
+
+Macedonian (Native)
+
+English (B2+)
+
+German (Basic)
+
+📬 Contact
 
 📧 Email: simonovskailijana1@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/ilijana-simonovska-a21102116
+🔗 LinkedIn: https://www.linkedin.com/in/ilijana-simonovska-a21102116/
 
-💻 GitHub: github.com/ilijana123
-<!---
-ilijana123/ilijana123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 GitHub: https://github.com/ilijana123
