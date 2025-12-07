@@ -1,6 +1,6 @@
 👋 Hi, I’m Ilijana Simonovska (@ilijana123)
 
-🎯 Software Developer passionate about building full-stack applications, backend systems and mboile apps.
+🎯 Software Developer passionate about building full-stack applications, backend systems and mobile apps.
 💡 I love creating clean, scalable, user-friendly software using modern technologies.
 📚 Always learning — always improving.
 
