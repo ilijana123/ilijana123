@@ -3,14 +3,29 @@ About Me
 
 I’m a software developer passionate about creating clean, efficient, and user-friendly applications. My main focus areas include:
 
-Backend: Spring Boot (Java/Kotlin), .NET (C#)
+### Backend
+ - Spring Boot (Java/Kotlin)
+ - .NET (C#)
+   
+### Frontend
+  - React, Next.js
+    
+### Mobile
+  - Android (Kotlin/Java)
+  - iOS (SwiftUI/UIKit)
 
-Frontend: React, Next.js
-
-Mobile: Android (Kotlin/Java) & iOS (SwiftUI/UIKit)
-
-I also have experience with Python, PHP, Angular, C/C++, and tools like AWS, Docker, Git/GitHub, and SQL/NoSQL databases.
-Always learning, always improving.
+I also have experience with:
+- Python
+- PHP
+- Angular
+- C/C++
+- Docker
+- Git/GitHub
+- SQL databases(MySQL, PostgreSQL, Microsoft SQL Server, SQLite)
+- NoSQL databases(Firebase)
+- Familiar with Kubernetes and AWS.
+  
+# Always learning, always improving.
 
 📧 Email: simonovskailijana1@gmail.com
 
