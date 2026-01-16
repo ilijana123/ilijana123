@@ -26,7 +26,3 @@ I also have experience with:
 - Familiar with Kubernetes and AWS.
   
 # Always learning, always improving.
-
-📧 Email: simonovskailijana1@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/ilijana-simonovska-a21102116/
