@@ -1,7 +1,7 @@
 👋 Hi, I’m @ilijana123
 About Me
 
-I’m a software developer passionate about creating clean, efficient, and user-friendly applications. My main focus areas include:
+I’m a software engineer passionate about creating clean, efficient and user-friendly applications. My main focus areas include:
 
 ### Backend
  - Spring Boot (Java/Kotlin)
@@ -24,5 +24,3 @@ I also have experience with:
 - SQL databases(MySQL, PostgreSQL, Microsoft SQL Server, SQLite)
 - NoSQL databases(Firebase)
 - Familiar with Kubernetes and AWS.
-  
-# Always learning, always improving.
